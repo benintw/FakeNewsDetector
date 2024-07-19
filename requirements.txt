@@ -1,0 +1,10 @@
+nltk
+torch
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+tiktoken
+scikit-learn
+tqdm
